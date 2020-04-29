@@ -1,0 +1,134 @@
+[
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-NewsPapers/master/1.png",
+		"URL": "http://www.eenadu.net"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-NewsPapers/master/2.png",
+		"URL": "https://www.sakshi.com"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-NewsPapers/master/3.png",
+		"URL": "http://www.andhrajyothy.com"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-NewsPapers/master/4.png",
+		"URL": "http://www.vaartha.com"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-NewsPapers/master/5.png",
+		"URL": "http://telugu.suryaa.com"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-NewsPapers/master/6.png",
+		"URL": "http://www.andhrabhoomi.net"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-NewsPapers/master/7.png",
+		"URL": "http://prabhanews.com"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-NewsPapers/master/8.png",
+		"URL": "http://www.prajasakti.com"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-NewsPapers/master/9.png",
+		"URL": "http://www.manamnews.com"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-NewsPapers/master/10.png",
+		"URL": "https://www.ntnews.com"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-NewsPapers/master/11.png",
+		"URL": "http://www.navatelangana.com"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-NewsPapers/master/12.png",
+		"URL": "http://manatelangana.news"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-NewsPapers/master/13.png",
+		"URL": "http://www.visalaandhra.com"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-NewsPapers/master/14.png",
+		"URL": "http://www.leaderepaper.com"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-NewsPapers/master/15.png",
+		"URL": "https://www.v6velugu.com"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-NewsPapers/master/16.png",
+		"URL": "http://www.thehindubusinessline.com"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-NewsPapers/master/17.png",
+		"URL": "http://indianexpress.com"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-NewsPapers/master/18.png",
+		"URL": "https://www.hindustantimes.com"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-NewsPapers/master/19.png",
+		"URL": "http://indianexpress.com"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-NewsPapers/master/20.png",
+		"URL": "https://www.telegraphindia.com/"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-NewsPapers/master/21.png",
+		"URL": "http://www.thehindu.com/"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-NewsPapers/master/22.png",
+		"URL": "http://indianexpress.com/"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-NewsPapers/master/23.png",
+		"URL": "http://morungexpress.com/"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-NewsPapers/master/24.png",
+		"URL": "https://timesofindia.indiatimes.com/"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-NewsPapers/master/25.png",
+		"URL": "http://www.dailypioneer.com/"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-NewsPapers/master/26.png",
+		"URL": "http://abpnews.abplive.in/"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-NewsPapers/master/27.png",
+		"URL": "https://www.amarujala.com/"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-NewsPapers/master/28.png",
+		"URL": "https://www.bhaskar.com/"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-NewsPapers/master/29.png",
+		"URL": "https://www.jagran.com/"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-NewsPapers/master/30.png",
+		"URL": " https://www.jansatta.com/"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-NewsPapers/master/31.png",
+		"URL": "https://www.livehindustan.com/"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-NewsPapers/master/32.png",
+		"URL": "https://navbharattimes.indiatimes.com/"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-NewsPapers/master/33.png",
+		"URL": "http://zeenews.india.com/hindi"
+	}
+]
